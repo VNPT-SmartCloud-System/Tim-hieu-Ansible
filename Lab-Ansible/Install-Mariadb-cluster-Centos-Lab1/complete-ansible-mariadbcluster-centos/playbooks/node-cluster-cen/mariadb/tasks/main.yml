@@ -1,4 +1,0 @@
-- set_fact: role_name=mariadb
-#### Install MariaDB-cluster
-- include: install.yml
-- include: configure.yml
