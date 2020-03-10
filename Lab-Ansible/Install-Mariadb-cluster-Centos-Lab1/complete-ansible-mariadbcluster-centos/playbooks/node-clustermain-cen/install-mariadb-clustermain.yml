@@ -1,3 +1,0 @@
-- hosts: node-centos-clustermain
-  roles:
-   - mariadb

@@ -1,4 +1,0 @@
-- hosts: node-centos-clustermain
-  become: true
-  roles:
-   - zabbix
